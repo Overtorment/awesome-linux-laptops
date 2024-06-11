@@ -14,6 +14,7 @@
 | [Laptop with Linux](https://laptopwithlinux.com)             | 2024-06             | Netherlands
 | [Juno Computers](https://junocomputers.com/)                 | 2024-06             | UK/USA
 | [Kubuntu Focus](https://kfocus.org/)                         | 2024-06             | USA
+| [NovaCustom](https://novacustom.com/)                        | 2024-06             | Netherlands
 
 
 
