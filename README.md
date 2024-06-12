@@ -15,6 +15,7 @@
 | [Juno Computers](https://junocomputers.com/)                 | 2024-06             | UK/USA
 | [Kubuntu Focus](https://kfocus.org/)                         | 2024-06             | USA
 | [NovaCustom](https://novacustom.com/)                        | 2024-06             | Netherlands
+| [MNT Research](https://mntre.com/)                           | 2024-06             | Germany
 
 
 
