@@ -16,6 +16,7 @@
 | [Kubuntu Focus](https://kfocus.org/)                         | 2024-06             | USA
 | [NovaCustom](https://novacustom.com/)                        | 2024-06             | Netherlands
 | [MNT Research](https://mntre.com/)                           | 2024-06             | Germany
+| [Think Penguin](https://www.thinkpenguin.com)                | 2024-06             | USA
 
 
 
