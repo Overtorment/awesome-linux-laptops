@@ -17,7 +17,7 @@
 | [NovaCustom](https://novacustom.com/)                        | 2024-06             | Netherlands
 | [MNT Research](https://mntre.com/)                           | 2024-06             | Germany
 | [Think Penguin](https://www.thinkpenguin.com)                | 2024-06             | USA
-[ [Entroware](https://www.entroware.com/store/)                | 2024-06             | UK
+| [Entroware](https://www.entroware.com/store/)                | 2024-06             | UK
 
 
 
