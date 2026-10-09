@@ -18,7 +18,6 @@
 | [MNT Research](https://mntre.com/)                           | 2024-06             | Germany
 | [Think Penguin](https://www.thinkpenguin.com)                | 2024-06             | USA
 | [The Linux Laptop Company](https://thelinuxlaptop.com/)      | 2026-09             | USA
-| [Entroware](https://www.entroware.com/store/)                | 2024-06             | UK
 
 
 
